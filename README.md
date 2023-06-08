@@ -246,7 +246,7 @@
 
 USB Cケーブルを使用し、PCと接続すると使用できます。
 
-![ここ](https://github.com/yamyam3/tenkey/blob/main/tenkey.json) から JSONファイルをダウンロードします。
+[ここ](https://github.com/yamyam3/tenkey/blob/main/tenkey.json) から JSONファイルをダウンロードします。
 
 次に、https://remap-keys.app/ へ アクセスを行います
 

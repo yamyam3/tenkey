@@ -261,6 +261,8 @@ USB Cケーブルを使用し、PCと接続すると使用できます。
 
 Please import your tenkey definition file(.json). と表示されるので、IMPORT(.JSON)をクリックし、ダウンロードしたJSONファイルを読み込みます。
 
+Remapに登録していないため、キーマップの変更のたびにjsonファイルを読み込んでください。
+
 ![75](https://github.com/yamyam3/tenkey/assets/135976746/5f9abf1a-fd46-47c4-9bb8-99d0e70843f2)
 ![76](https://github.com/yamyam3/tenkey/assets/135976746/181236ff-8e86-4d2d-8bad-ce1c850f0a41)
 
